@@ -17,3 +17,5 @@ In my spare time, I've immersed myself in the world of Python programming, lever
 Here are a few Python projects I've worked on:
     """
     st.info(content)
+content2 = """Below you can find some of the apps I have built in Python. Feel free to contact me!"""
+st.text(content2)
