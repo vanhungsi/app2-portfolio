@@ -10,9 +10,10 @@ with col1:
 
 with col2:
     st.title("Van Hung Si")
-    content = """Hello, I'm Van Hung Si, a 31-year-old professional with a passion for technology and a knack for
-     problem-solving. By day, I lead a dynamic team as a Warehouse Document Team Leader, ensuring seamless operations 
-     and meticulous record-keeping.
+    content = """
+    Hello, I'm Van Hung Si, a 31-year-old professional with a passion for technology and a knack for
+    problem-solving. By day, I lead a dynamic team as a Warehouse Document Team Leader, ensuring seamless operations 
+    and meticulous record-keeping.
 
     In my spare time, I've immersed myself in the world of Python programming, leveraging its power to tackle various 
     challenges and create solutions that streamline processes and enhance efficiency.
